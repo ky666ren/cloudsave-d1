@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "cloudsave-d1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3c66a2a1-a59b-47fe-bea9-6e2532e77c93",
+      "database_name": "cloudD1save"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
